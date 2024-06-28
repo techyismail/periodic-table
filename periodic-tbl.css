@@ -1,0 +1,61 @@
+h1{
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+.empty{
+    border:none;
+}
+.name{
+    border: none;
+}
+#main{
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+#not_main{
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+.dark_skin {
+background-color:	#f1c27d
+}
+.light_skin{
+    background-color:  rgb(255, 255, 176);
+}
+.light_orange{
+    background-color: rgb(255, 255, 143);
+}
+.green{
+    background-color: rgb(110, 218, 110);
+}
+.pink{background-color: lightpink;}
+.purple{background-color: rgb(221, 192, 216);}
+.light_green{background-color:rgb(221, 247, 128) }
+.light_blue{background-color:lightblue;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
